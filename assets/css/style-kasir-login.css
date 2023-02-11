@@ -1,0 +1,17 @@
+input {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid green;
+    padding: 10px 5px;
+    outline: none;
+    font-size: 16px;
+}
+
+body {
+    background: green;
+}
+
+img[alt="back"] {
+    filter: brightness(100);
+  }
